@@ -1,0 +1,35 @@
+
+body {
+	background-color: #cbae6e;
+}
+.judul h1{
+	color: #82362e;
+	font-family: "times new roman";
+	font-size: 40px;
+	font-style: bold;
+	text-align: center;
+}
+.judul h3{
+	color: #82362e;
+	font-family: "courier new os";
+	font-style: bold;
+}
+.judul p{
+	color: #000;
+	font-family: "courier new os";
+}
+.judul .btn{
+	background-color: #a8564e;
+}
+.judul .btn:hover{
+	background-color: #cb867f;
+}
+.inpt {
+	width: 450px;
+}
+.hit{
+	padding-left: 16px;
+}
+.btn:hover{
+	background-color: #104e83;
+}
